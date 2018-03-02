@@ -8,6 +8,7 @@ The Map Portlet is a JSR-286 portlet includes an API for representing campus loc
 
 ## Features
 
+*   Stefanos is making changes
 *   Display Map with markers
 *   API for representing campus locations
 *   Search or Browse locations
