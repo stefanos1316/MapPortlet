@@ -6,6 +6,10 @@
 
 The Map Portlet is a JSR-286 portlet includes an API for representing campus locations, including geo coordinates, addresses, categories, etc. Users can search/browse to find particular locations
 
+
+Testing!!
+
+
 ## Features
 
 *   Stefanos is making changes
